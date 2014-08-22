@@ -1,3 +1,5 @@
+Hi, I renamed my original github account after i submitted the original assignment so the SHA-1 is wrong. 
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
